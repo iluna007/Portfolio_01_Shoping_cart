@@ -1,4 +1,4 @@
-# Portfolio_01_Shooping_cart
+# Portfolio_01_Shoping_cart
 
 Overview
 This project is a **Shopping Cart Web Application** built with **React** and **Vite**, demonstrating a dynamic and responsive frontend architecture. It includes features such as product listing, cart management, and smooth user interaction through React's component-based structure.
